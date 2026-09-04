@@ -36,5 +36,5 @@ Accessibility-first TTC routing application — coming soon.
 
 ## Connect
 
-- LinkedIn: [Karanvir Thethy](YOUR_LINKEDIN_URL)
+- LinkedIn: [Karanvir Thethy](https://www.linkedin.com/in/karanvir-thethy/)
 - Website: [ChurnAutopsy](https://churnautopsy.org)
