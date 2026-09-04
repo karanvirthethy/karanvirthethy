@@ -1,40 +1,37 @@
 # Hi, I'm Karanvir Thethy
 
-First-year Computer Science student at Toronto Metropolitan University,
-focused on backend software engineering.
+First-year Computer Science student at Toronto Metropolitan University focused on backend software engineering, with a long-term interest in machine learning and production AI systems.
 
 ## Currently
 
-- Building ChurnAutopsy, a B2B SaaS churn-intelligence platform
-- Developing my Python, SQL and backend engineering skills
-- Practising data structures and algorithms in Python
-- Preparing to build StepFreeTO, an accessibility-first TTC route planner
+* Building [ChurnAutopsy](https://churnautopsy.org), a B2B SaaS churn-intelligence platform
+* Developing my Python, SQL and backend engineering skills
+* Refreshing data structures and algorithms using Python
+* Preparing to build StepFreeTO, an accessibility-first TTC route planner
 
-## Technologies
+## Technical Skills
 
-- Python
-- C#
-- JavaScript
-- React
-- PostgreSQL
-- Supabase
-- HTML and CSS
-- Git and GitHub
+**Languages:** Python, C#, JavaScript, HTML and CSS
+**Technologies:** React, PostgreSQL and Supabase
+**Tools:** GitHub, Visual Studio, Visual Studio Code and Vercel
 
 ## Featured Projects
 
-### ChurnAutopsy
-B2B SaaS platform that analyzes customer evidence to explain why churn
-happens and identify similar at-risk customers.
+### [ChurnAutopsy](https://churnautopsy.org)
 
-### Breakout Game
-C# game demonstrating object-oriented programming, collision detection,
-game-state management and debugging.
+B2B SaaS platform that analyzes customer evidence to explain why churn happens and identify similar at-risk customers.
+
+### [Breakout Game](https://github.com/karanvirthethy/Breakout-Game)
+
+C# game demonstrating object-oriented programming, collision detection, game-state management and debugging.
+
+## Next Project
 
 ### StepFreeTO
-Accessibility-first TTC routing application — coming soon.
+
+An accessibility-first TTC route planner that will use Python, FastAPI, PostgreSQL and graph algorithms to generate accessible routes.
 
 ## Connect
 
-- LinkedIn: [Karanvir Thethy](https://www.linkedin.com/in/karanvir-thethy/)
-- Website: [ChurnAutopsy](https://churnautopsy.org)
+* [LinkedIn](https://www.linkedin.com/in/karanvir-thethy/)
+* [ChurnAutopsy](https://churnautopsy.org/)
